@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://github.com/steps0x29a?tab=repositories"><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steps0x29a&layout=compact&langs_count=6&theme=slateorange" alt="Top Languages"/></a>
+
 <!--
 **steps0x29a/steps0x29a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
